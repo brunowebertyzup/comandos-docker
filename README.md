@@ -1,6 +1,6 @@
 # comandos-docker
 
-docker ps - exibe todos os containers em execução no momento.
+docker ps - exibe todos os containers em execução no momento. 
 docker ps -a - exibe todos os containers, independentemente de estarem em execução ou não.
 docker run -it NOME_DA_IMAGEM - conecta o terminal que estamos utilizando com o do container.
 docker start ID_CONTAINER - inicia o container com id em questão.
